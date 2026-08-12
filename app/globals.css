@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* تنظیمات فونت سراسری که در مرحله قبل گفتم */
+body {
+  font-family: var(--font-poppins), var(--font-vazirmatn), sans-serif;
+}
